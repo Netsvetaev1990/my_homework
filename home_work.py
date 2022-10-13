@@ -7,7 +7,7 @@ with open("work.txt", "w") as f:
            str_list.append(i)
         elif type(i) == int:
             int_list.append(i)
-
+print("hello")
 
 
 
