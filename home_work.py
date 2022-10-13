@@ -8,7 +8,7 @@ with open("work.txt", "w") as f:
         elif type(i) == int:
             int_list.append(i)
 
-print("hello world, it`s me")
+
 
 
 
